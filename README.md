@@ -1,4 +1,4 @@
-# Coursera Capstone Project: Machine Learning and Data Analysis
+# Recommendation System Through Amazon Product Reviews Analysis
 This project includes the following components:
 
 - Data Processing: Cleaning, transforming, and preparing the dataset for analysis.
